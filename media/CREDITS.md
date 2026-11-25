@@ -129,3 +129,6 @@ Kilauea lava lake: USGS / Hawaiian Volcano Observatory aerial photograph
 (public domain), source image `work/kilauea-lava-lake.jpg`; cropped, contrast-
 enhanced and used as the crater-floor albedo in the lava-temperature scene.
 
+# 1.4.0 asset audit
+
+On 2026-11-25 the asset tree was re-audited: 186 files were hashed and mapped to entries, features, 3D scenes and shared OG/favicon slots. 90 unreferenced or duplicate files were removed; 96 files (about 81.7 MB) remain. The lists above describe the retained textures, models, thumbnails and hero derivatives; no removed file is still referenced by the build.
